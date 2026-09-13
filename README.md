@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/sarthakmevhankar-sketch/LeetCode-Practice/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/sarthakmevhankar-sketch/LeetCode-Practice/tree/master/0060-permutation-sequence) |
 | [0877-stone-game](https://github.com/sarthakmevhankar-sketch/LeetCode-Practice/tree/master/0877-stone-game) |
 | [2235-add-two-integers](https://github.com/sarthakmevhankar-sketch/LeetCode-Practice/tree/master/2235-add-two-integers) |
